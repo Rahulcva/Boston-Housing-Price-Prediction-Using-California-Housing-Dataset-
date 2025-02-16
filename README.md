@@ -51,11 +51,11 @@ R² Score (Test Set)
 
 Linear Regression - 0.61
 
-Decision Tree - 0.74
+Decision Tree - 0.60
 
-KNN (k=5) - 0.67
+KNN (k=5) - 0.16
 
-Bagging Regressor - 0.78
+Bagging Regressor - 0.97
 
 
 Dependencies
